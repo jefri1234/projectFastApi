@@ -1,0 +1,7 @@
+# Ignorar entorno virtual
+venv/
+__pycache__/
+*.pyc
+.env
+.env.dev
+.env.develop
