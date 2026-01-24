@@ -29,6 +29,3 @@ http://127.0.0.1:8000
 
 -- command for deactivate virtual enviroment
 deactivate
-
-
---readmi modificado
